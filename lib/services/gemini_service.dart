@@ -6,7 +6,7 @@ class GeminiService {
   GeminiService._();
 
   // 🔑 REPLACE WITH YOUR GEMINI API KEY
-  static const String _apiKey = 'AIzaSyCywglKgT3wRTk8g0znqcq5K2Tq6-mNVFI';
+  static const String _apiKey = 'YOUR API KEY';
 
   static GenerativeModel? _model;
   static GenerativeModel? _imageModel;
